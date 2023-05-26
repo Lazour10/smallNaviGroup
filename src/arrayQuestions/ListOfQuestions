@@ -1,14 +1,14 @@
 Array
 
 1. How do you create an Array or dynamic array?
-Print multiplication table without multiply operator
-Max difference between any adjacent index in array
-Compare  same indexes of two different array and create another array for matching values
-Sort the array in ascending and descending order
-Swap variables with and without using temp variable
-Print pyramid
-Print fibonacci series
-Print fibonacci series using recursion and iterative approach
+2. Print multiplication table without multiply operator
+3. Max difference between any adjacent index in array
+4. Compare  same indexes of two different array and create another array for matching values
+5. Sort the array in ascending and descending order
+6. Swap variables with and without using temp variable
+7. Print pyramid
+8. Print fibonacci series
+9. Print fibonacci series using recursion and iterative approach
 Check if a number is Armstrong
 Check if a number is prime
 Print min and max numbers in a multidimensional array 3*3 matrix
