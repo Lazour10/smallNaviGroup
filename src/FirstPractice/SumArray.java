@@ -15,7 +15,7 @@ this method accepts an Array and returns the sum of all the elements in the arra
             System.out.println(ab);
         }
 
-        public static int Sum(int[]a){
+        public static int Sum(int[] a){
             int result = 0;
             for (int i = 0; i < a.length; i++) {
                 result += a[i]; //increment
