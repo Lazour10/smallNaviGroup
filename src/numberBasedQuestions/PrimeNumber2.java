@@ -1,6 +1,6 @@
 package numberBasedQuestions;
 
-public class primeNumber2 {
+public class PrimeNumber2 {
 
     public static void primeNumber(int num){
         for (int i = 2; i < num; i++) {

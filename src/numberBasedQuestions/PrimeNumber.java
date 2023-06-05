@@ -14,14 +14,14 @@ find prime - square root
 
  */
 
-public class primeNumber {
+public class PrimeNumber {
     public static boolean isPrime(int number){
         if(number < 2){
           return false;// pre-condition
 
         }
         // check divisibility of number
-       for (int i = 2; i <= number/2 ; i++) {
+       for (int i = 2; i <= number ; i++) {
            if( number%i==0){
                return false;
             }
