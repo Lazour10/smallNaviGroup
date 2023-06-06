@@ -32,4 +32,3 @@ public class FrequencyOfCharacters {
             System.out.println(result);  // Output: A3B2C1D2
         }
     }
-}
